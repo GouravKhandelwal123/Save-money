@@ -1,0 +1,43 @@
+.home-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+}
+
+.image-container {
+    display: flex;
+    text-align: center;
+}
+
+.heading {
+    font-size: 25px;
+    font-weight: 200;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif;
+    padding: 2px;
+}
+
+.sub-heading {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif;
+    font-size: 20px;
+    padding: 2px;
+}
+
+.accounts-btn {
+    border-radius: 5px;
+    background-color: aqua;
+    margin: 8px;
+}
+
+.transaction-btn {
+    border-radius: 5px;
+    margin: 8px;
+    background-color: aqua;
+}
+
+.transfer-btn {
+    border-radius: 5px;
+    margin: 8px;
+    background-color: aqua;
+}
